@@ -9,7 +9,7 @@ This is a pure bash-script for syncing a Actice-Directory Group via LDAP with a 
  - 2021-01-10 **V1.2** => add support for Zabbix 5.2 or higher (breaking changes in API) with API-Version check bultin
  - 2021-02-06 **v1.3.1** => fixed error when user moved to disabled group
  - 2022-03-24 **v1.3.2** => fixed alias vs username for Zabbix 6.0
- - 2025-01-24 **v1.3.2** => - Updated to work with the new 7.2+ API changes
+ - 2025-01-24 **v1.3.5** => - Updated to work with the new 7.2+ API changes
 <br>
 
 ## Features
